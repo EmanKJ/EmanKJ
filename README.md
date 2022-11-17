@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmanKJ
+- 👀 I'm interested in data science, machine learning, artificial intelligence in the medical field, and academic research. 
+- 🌱 I’m currently learning Android development with Coding Dojo.
+- 💞️ I aspire to work at a medical research center, analyzing medical data using AI algorithms.
+- 📫 eman.k.j@hotmail.com
